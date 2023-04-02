@@ -1,5 +1,5 @@
-import LargeHeading from '@/ui/LargeHeading'
-import Paragraph from '@/ui/Paragraph'
+import LargeHeading from '@/components/ui/LargeHeading'
+import Paragraph from '@/components/ui/Paragraph'
 import { FC } from 'react'
 import 'simplebar-react/dist/simplebar.min.css'
 
